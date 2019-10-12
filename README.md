@@ -26,6 +26,8 @@ Volunteerism helps to build and promote a positive culture within a company and 
 :sos: Assistance Near Me
 - A location-based help services that allows help seekers to filter categories and find the closest, most relevant service for their needs. This connects you to thousands of community, businesses and individual volunteers that are willing to offer help near you.
 
+Try it out here: https://mkdr-project2.herokuapp.com
+
 # HelpFull App Development Team
 - Ramon Barajas (@ramonb621)
 - Marine Mekhakyan (@marinemekhakyan)
